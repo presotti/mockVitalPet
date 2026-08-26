@@ -1,0 +1,325 @@
+{
+  "id": "785b0ed0-10fc-4e61-b457-315e9e1b3339",
+  "name": "Carlos Silva",
+  "pets": [
+    {
+      "id": "a143846b-80f2-4b93-9f70-c10323dd7844",
+      "photo": "https://images.unsplash.com/photo-1552053831-71594a27632d",
+      "name": "Thor",
+      "breed": "Golden Retriever",
+      "isFavorite": true,
+      "birthday": "2021-05-14T08:00:00Z",
+      "vaccineCatalogEntrys": [
+        {
+          "id": "2cab3833-ccfe-44c2-bd9d-d8ec0fc369ce",
+          "name": "Vacina V10",
+          "description": "Protege contra parvovirose, cinomose, hepatite e leptospirose.",
+          "price": 120.0,
+          "dosage": "1 ml",
+          "breed": "Golden Retriever",
+          "dateApplied": "2025-05-14T10:30:00Z",
+          "nextDoseData": "2026-05-14T10:30:00Z"
+        },
+        {
+          "id": "ff45f2d8-ba1b-4297-bca1-2a96196c103b",
+          "name": "Antirrábica",
+          "description": "Proteção anual contra a raiva canina.",
+          "price": 90.0,
+          "dosage": "1 ml",
+          "breed": "Golden Retriever",
+          "dateApplied": "2025-06-01T11:00:00Z",
+          "nextDoseData": "2026-06-01T11:00:00Z"
+        },
+        {
+          "id": "1886327d-0f7a-41f8-b49c-ffa49ade392a",
+          "name": "Gripal Canina",
+          "description": "Prevenção da gripe dos canis e traqueobronquite.",
+          "price": 110.0,
+          "dosage": "0.5 ml",
+          "breed": "Golden Retriever",
+          "dateApplied": "2025-07-10T14:00:00Z",
+          "nextDoseData": "2026-07-10T14:00:00Z"
+        },
+        {
+          "id": "c914f6ae-5680-4802-be15-8ce4ce5edcd4",
+          "name": "Giardíase",
+          "description": "Proteção contra infecção por Giardia lamblia.",
+          "price": 130.0,
+          "dosage": "1 ml",
+          "breed": "Golden Retriever",
+          "dateApplied": "2025-08-15T09:00:00Z",
+          "nextDoseData": "2026-08-15T09:00:00Z"
+        },
+        {
+          "id": "6310df50-3041-4b6f-bbaa-f7d55a2d6738",
+          "name": "Leishmaniose",
+          "description": "Imunização específica contra leishmaniose visceral.",
+          "price": 180.0,
+          "dosage": "1 ml",
+          "breed": "Golden Retriever",
+          "dateApplied": "2025-09-01T16:00:00Z",
+          "nextDoseData": "2026-09-01T16:00:00Z"
+        }
+      ],
+      "vaccineStatus": {
+        "upToDate": {}
+      }
+    },
+    {
+      "id": "c873c640-ae66-4a1d-ad15-b0dfeac5f176",
+      "photo": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba",
+      "name": "Luna",
+      "breed": "Siamês",
+      "isFavorite": false,
+      "birthday": "2022-09-01T00:00:00Z",
+      "vaccineCatalogEntrys": [
+        {
+          "id": "17db142c-b700-40a9-8a31-16896a5111a8",
+          "name": "Vacina V4 Felina",
+          "description": "Protege contra panleucopenia, calicivirose, rinotraqueíte e clamidiose.",
+          "price": 115.0,
+          "dosage": "1 ml",
+          "breed": "Siamês",
+          "dateApplied": "2024-11-01T09:00:00Z",
+          "nextDoseData": "2025-11-01T09:00:00Z"
+        },
+        {
+          "id": "a1f24e15-c647-4c75-aa06-6c550eaa4a1a",
+          "name": "Antirrábica Felina",
+          "description": "Proteção contra o vírus da raiva.",
+          "price": 85.5,
+          "dosage": "0.5 ml",
+          "breed": "Siamês",
+          "dateApplied": "2024-12-01T14:00:00Z",
+          "nextDoseData": "2025-12-01T14:00:00Z"
+        },
+        {
+          "id": "35e4411f-e28a-40db-b799-7ee07ea33a9c",
+          "name": "Vacina FeLV",
+          "description": "Imunização específica contra o vírus da Leucemia Felina.",
+          "price": 140.0,
+          "dosage": "1 ml",
+          "breed": "Siamês",
+          "dateApplied": "2025-01-15T10:00:00Z",
+          "nextDoseData": "2026-01-15T10:00:00Z"
+        },
+        {
+          "id": "a9c37ce3-a06c-490c-a81b-d703239d289f",
+          "name": "Vacina V3 Felina",
+          "description": "Proteção tríplice felina essencial.",
+          "price": 100.0,
+          "dosage": "1 ml",
+          "breed": "Siamês",
+          "dateApplied": "2023-05-10T11:00:00Z",
+          "nextDoseData": "2024-05-10T11:00:00Z"
+        },
+        {
+          "id": "fe676913-8135-4550-9c8b-f6e8b03355a9",
+          "name": "Dermatofitose",
+          "description": "Tratamento e profilaxia contra infecções fúngicas da pele.",
+          "price": 150.0,
+          "dosage": "1 ml",
+          "breed": "Siamês",
+          "dateApplied": "2024-02-20T15:30:00Z",
+          "nextDoseData": null
+        }
+      ],
+      "vaccineStatus": {
+        "overdue": {
+          "count": 2
+        }
+      }
+    },
+    {
+      "id": "a529b242-7a51-4807-a810-38e2b1f70ba6",
+      "photo": null,
+      "name": "Bob",
+      "breed": "Poodle",
+      "isFavorite": true,
+      "birthday": "2019-03-20T00:00:00Z",
+      "vaccineCatalogEntrys": [
+        {
+          "id": "4777dc26-427d-4160-836b-cc162fe893e1",
+          "name": "Vacina V8",
+          "description": "Vacina essencial contra as principais zoonoses caninas.",
+          "price": 100.0,
+          "dosage": "1 ml",
+          "breed": "Poodle",
+          "dateApplied": "2026-01-10T08:30:00Z",
+          "nextDoseData": "2027-01-10T08:30:00Z"
+        },
+        {
+          "id": "7fb788db-acf2-4abd-b4fc-2f8ed3a7a205",
+          "name": "Giardíase",
+          "description": "Prevenção contra infecções por Giardia lamblia.",
+          "price": 130.0,
+          "dosage": "1 ml",
+          "breed": "Poodle",
+          "dateApplied": "2026-02-01T15:00:00Z",
+          "nextDoseData": "2027-02-01T15:00:00Z"
+        },
+        {
+          "id": "11e3a218-6554-4815-a2b9-c04277e313f0",
+          "name": "Antirrábica",
+          "description": "Imunização anual obrigatória.",
+          "price": 90.0,
+          "dosage": "1 ml",
+          "breed": "Poodle",
+          "dateApplied": "2026-03-01T11:20:00Z",
+          "nextDoseData": "2027-03-01T11:20:00Z"
+        },
+        {
+          "id": "ccac5734-6c59-48b4-973d-e0016aea112c",
+          "name": "Gripal Intranasal",
+          "description": "Vacina de aplicação nasal contra tosse dos canis.",
+          "price": 125.0,
+          "dosage": "0.4 ml",
+          "breed": "Poodle",
+          "dateApplied": "2026-04-12T10:00:00Z",
+          "nextDoseData": "2027-04-12T10:00:00Z"
+        },
+        {
+          "id": "65a89b10-b6c1-45a4-ac8a-82b4c5cd3ea4",
+          "name": "Vacina V10 (Reforço)",
+          "description": "Reforço anual da vacina múltipla canina.",
+          "price": 120.0,
+          "dosage": "1 ml",
+          "breed": "Poodle",
+          "dateApplied": "2026-05-20T14:00:00Z",
+          "nextDoseData": "2027-05-20T14:00:00Z"
+        }
+      ],
+      "vaccineStatus": {
+        "upToDate": {}
+      }
+    },
+    {
+      "id": "776da9a5-f215-4f62-8f41-a1f02b9cdd57",
+      "photo": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce",
+      "name": "Bella",
+      "breed": "Persa",
+      "isFavorite": false,
+      "birthday": "2020-11-12T00:00:00Z",
+      "vaccineCatalogEntrys": [
+        {
+          "id": "bbd82dd2-237f-498f-8846-e9a3f3152191",
+          "name": "Vacina V5 Felina",
+          "description": "Proteção quádrupla acrescida da imunização para FeLV.",
+          "price": 150.0,
+          "dosage": "1 ml",
+          "breed": "Persa",
+          "dateApplied": "2024-02-10T10:00:00Z",
+          "nextDoseData": "2025-02-10T10:00:00Z"
+        },
+        {
+          "id": "60e45db2-ee23-4309-9756-29e5af4326e7",
+          "name": "Antirrábica Felina",
+          "description": "Vacina contra a raiva em felinos.",
+          "price": 85.0,
+          "dosage": "0.5 ml",
+          "breed": "Persa",
+          "dateApplied": "2024-03-15T09:30:00Z",
+          "nextDoseData": "2025-03-15T09:30:00Z"
+        },
+        {
+          "id": "e99e8189-156b-46a3-b199-7969ae373931",
+          "name": "Dermatofitose",
+          "description": "Profilaxia contra fungos de pele.",
+          "price": 160.0,
+          "dosage": "1 ml",
+          "breed": "Persa",
+          "dateApplied": "2024-04-01T16:00:00Z",
+          "nextDoseData": null
+        },
+        {
+          "id": "4c1947e8-965e-4f37-8de2-3fd99a00fd06",
+          "name": "Vacina V4 Felina",
+          "description": "Dose de reforço das principais viroses felinas.",
+          "price": 115.0,
+          "dosage": "1 ml",
+          "breed": "Persa",
+          "dateApplied": "2023-01-20T11:00:00Z",
+          "nextDoseData": "2024-01-20T11:00:00Z"
+        },
+        {
+          "id": "3bd10da8-7042-4cce-bd7d-a55c166c930e",
+          "name": "Antirrábica (Dose de Reforço)",
+          "description": "Reforço da proteção antirrábica.",
+          "price": 90.0,
+          "dosage": "0.5 ml",
+          "breed": "Persa",
+          "dateApplied": "2023-02-15T10:00:00Z",
+          "nextDoseData": "2024-02-15T10:00:00Z"
+        }
+      ],
+      "vaccineStatus": {
+        "overdue": {
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "5cf8646b-2484-420b-9948-3f9adcbad197",
+      "photo": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e",
+      "name": "Zeus",
+      "breed": "Bulldog Francês",
+      "isFavorite": true,
+      "birthday": "2023-01-05T00:00:00Z",
+      "vaccineCatalogEntrys": [
+        {
+          "id": "421676f6-168f-4484-ad61-8cc9292fc85d",
+          "name": "Vacina V10 (Dose 1)",
+          "description": "Primeira dose da vacina polivalente em filhotes.",
+          "price": 120.0,
+          "dosage": "1 ml",
+          "breed": "Bulldog Francês",
+          "dateApplied": "2025-02-20T10:00:00Z",
+          "nextDoseData": "2025-03-20T10:00:00Z"
+        },
+        {
+          "id": "f949330d-5c08-4084-adc2-b1ada38e68d0",
+          "name": "Vacina V10 (Dose 2)",
+          "description": "Segunda dose da vacina polivalente em filhotes.",
+          "price": 120.0,
+          "dosage": "1 ml",
+          "breed": "Bulldog Francês",
+          "dateApplied": "2025-03-20T10:00:00Z",
+          "nextDoseData": "2025-04-20T10:00:00Z"
+        },
+        {
+          "id": "772c4d92-929f-454d-9249-073e946c8549",
+          "name": "Vacina V10 (Dose 3)",
+          "description": "Terceira dose da vacina polivalente em filhotes.",
+          "price": 120.0,
+          "dosage": "1 ml",
+          "breed": "Bulldog Francês",
+          "dateApplied": "2025-04-20T10:00:00Z",
+          "nextDoseData": "2026-04-20T10:00:00Z"
+        },
+        {
+          "id": "8c92b0bd-c10a-4b00-8435-d75b6773caf6",
+          "name": "Leishmaniose",
+          "description": "Prevenção da leishmaniose visceral canina.",
+          "price": 180.0,
+          "dosage": "1 ml",
+          "breed": "Bulldog Francês",
+          "dateApplied": "2025-05-10T11:00:00Z",
+          "nextDoseData": "2026-05-10T11:00:00Z"
+        },
+        {
+          "id": "15d38ae3-4ed0-449d-88ee-013fc56359e6",
+          "name": "Antirrábica",
+          "description": "Vacina imunizante anual contra raiva.",
+          "price": 95.0,
+          "dosage": "1 ml",
+          "breed": "Bulldog Francês",
+          "dateApplied": "2025-06-15T14:30:00Z",
+          "nextDoseData": "2026-06-15T14:30:00Z"
+        }
+      ],
+      "vaccineStatus": {
+        "upToDate": {}
+      }
+    }
+  ]
+}
