@@ -1,0 +1,317 @@
+[
+  {
+    "id": "84EF2743-1E3F-41AE-BFEC-1DEA31F58508",
+    "breed": "Cães",
+    "name": "V8 (Polivalente Canina)",
+    "description": "Protege contra cinomose, parvovirose, hepatite infecciosa canina (adenovírus tipo 1), adenovirose tipo 2, parainfluenza e 2 sorovares de leptospirose.",
+    "dosage": "1ml, dose única por aplicação",
+    "dateApplied": "2026-04-28T00:00:00Z",
+    "nextDoseDate": "2027-04-28T00:00:00Z"
+  },
+  {
+    "id": "8BEA4D34-873F-45A1-AA6A-7DD615EDFE15",
+    "breed": "Cães",
+    "name": "V10 (Polivalente Canina)",
+    "description": "Inclui as proteções da V8 mais a coronavirose canina e mais 2 sorovares de leptospirose (total de 4 sorovares).",
+    "dosage": "1ml, dose única por aplicação",
+    "dateApplied": "2026-04-28T00:00:00Z",
+    "nextDoseDate": "2027-04-28T00:00:00Z"
+  },
+  {
+    "id": "177F7725-88BA-4A3D-8B84-CA06B964AC99",
+    "breed": "Cães",
+    "name": "V12 (Polivalente Canina)",
+    "description": "Inclui as proteções da V10 mais 2 sorovares adicionais de leptospirose (total de 6 sorovares), ampliando a cobertura contra variantes da bactéria.",
+    "dosage": "1ml, dose única por aplicação",
+    "dateApplied": "2026-04-28T00:00:00Z",
+    "nextDoseDate": "2027-04-28T00:00:00Z"
+  },
+  {
+    "id": "F5DA6396-9384-49F2-8AE7-97995F0A1C89",
+    "breed": "Cães",
+    "name": "Antirrábica",
+    "description": "Vacina obrigatória por lei. Protege contra o vírus da raiva.",
+    "dosage": "1ml, dose única, reforço anual",
+    "dateApplied": "2026-02-07T00:00:00Z",
+    "nextDoseDate": "2027-02-07T00:00:00Z"
+  },
+  {
+    "id": "AA262A06-BF97-4EA4-99F1-66E806A820EA",
+    "breed": "Cães",
+    "name": "Tosse dos Canis (Gripe Canina)",
+    "description": "Protege contra a bactéria Bordetella bronchiseptica e o vírus da parainfluenza. Disponível nas formas injetável, intranasal e oral.",
+    "dosage": "1 dose intranasal",
+    "dateApplied": "2026-05-28T00:00:00Z",
+    "nextDoseDate": "2027-05-28T00:00:00Z"
+  },
+  {
+    "id": "5CEC16D7-B6B2-4360-A714-962354876DF9",
+    "breed": "Cães",
+    "name": "Giardíase",
+    "description": "Previne a infecção pelo protozoário Giardia lamblia.",
+    "dosage": "1ml, 2 doses com intervalo de 2 a 4 semanas",
+    "dateApplied": "2026-06-27T00:00:00Z",
+    "nextDoseDate": "2027-06-27T00:00:00Z"
+  },
+  {
+    "id": "3B82AB2C-C236-488A-A516-E8910DA32356",
+    "breed": "Cães",
+    "name": "Leishmaniose",
+    "description": "Indicada para áreas endêmicas. Exige teste sorológico negativo antes da primeira dose.",
+    "dosage": "1ml, 3 doses com intervalo de 21 dias",
+    "dateApplied": "2026-07-12T00:00:00Z",
+    "nextDoseDate": "2027-07-12T00:00:00Z"
+  },
+  {
+    "id": "398C2F09-0BFA-493B-B534-769541B00CEF",
+    "breed": "Gatos",
+    "name": "V3 (Tríplice Felina)",
+    "description": "Protege contra panleucopenia, calicivirose e rinotraqueíte viral felina.",
+    "dosage": "1ml, dose única por aplicação",
+    "dateApplied": "2026-03-29T00:00:00Z",
+    "nextDoseDate": "2027-03-29T00:00:00Z"
+  },
+  {
+    "id": "49A6C0FD-C5FC-48E3-9DF5-6EF38E917FA3",
+    "breed": "Gatos",
+    "name": "V4 (Quádrupla Felina)",
+    "description": "Inclui as proteções da V3 mais a Chlamydia felis (clamidiose).",
+    "dosage": "1ml, dose única por aplicação",
+    "dateApplied": "2026-05-18T00:00:00Z",
+    "nextDoseDate": "2027-05-18T00:00:00Z"
+  },
+  {
+    "id": "4E5ED00F-CDE9-47F9-9F9A-98F802469F6B",
+    "breed": "Gatos",
+    "name": "V5 (Quíntupla Felina)",
+    "description": "Inclui as proteções da V4 mais o vírus da Leucemia Felina (FeLV). Exige teste prévio negativo (SNAP FeLV) antes da aplicação.",
+    "dosage": "1ml, dose única por aplicação",
+    "dateApplied": "2026-06-07T00:00:00Z",
+    "nextDoseDate": "2027-06-07T00:00:00Z"
+  },
+  {
+    "id": "40C89262-E000-46E4-87A2-422D14459E77",
+    "breed": "Gatos",
+    "name": "Antirrábica",
+    "description": "Vacina obrigatória por lei. Protege contra a raiva.",
+    "dosage": "1ml, dose única, reforço anual",
+    "dateApplied": "2026-01-28T00:00:00Z",
+    "nextDoseDate": "2027-01-28T00:00:00Z"
+  },
+  {
+    "id": "EA026D44-16F3-4E1A-920C-E0B65D9321EF",
+    "breed": "Gatos",
+    "name": "PIF (Peritonite Infecciosa Felina)",
+    "description": "Vacina de aplicação intranasal, pouco comum e com indicação restrita a cenários específicos.",
+    "dosage": "1 dose intranasal",
+    "dateApplied": "2026-07-27T00:00:00Z",
+    "nextDoseDate": null
+  },
+  {
+    "id": "C3C74ECA-5E10-4015-BF92-2D1DF5280E24",
+    "breed": "Bovinos e Bubalinos",
+    "name": "Clostridiose (Polivalente)",
+    "description": "Protege contra carbúnculo sintomático (manqueira), gangrena gasosa, enterotoxemia e tétano.",
+    "dosage": "5ml, reforço anual",
+    "dateApplied": "2026-02-27T00:00:00Z",
+    "nextDoseDate": "2027-02-27T00:00:00Z"
+  },
+  {
+    "id": "E6CFCB6A-0F46-4E0A-ABF8-E861B2761493",
+    "breed": "Bovinos e Bubalinos",
+    "name": "Brucelose (B19 / RB51)",
+    "description": "Obrigatória para fêmeas entre 3 e 8 meses (B19) ou fêmeas não vacinadas quando jovens (RB51).",
+    "dosage": "2ml, dose única",
+    "dateApplied": "2025-07-22T00:00:00Z",
+    "nextDoseDate": null
+  },
+  {
+    "id": "E20257CB-F1E4-4DB9-9B8B-38737CD70C37",
+    "breed": "Bovinos e Bubalinos",
+    "name": "Febre Aftosa",
+    "description": "Aplicada de acordo com o calendário e as diretrizes do Ministério da Agricultura (MAPA) em regiões não declaradas livres sem vacinação.",
+    "dosage": "5ml, conforme calendário oficial",
+    "dateApplied": "2026-03-29T00:00:00Z",
+    "nextDoseDate": "2026-09-25T00:00:00Z"
+  },
+  {
+    "id": "F0363CE3-68CB-439F-8EAD-FA9B24458E98",
+    "breed": "Bovinos e Bubalinos",
+    "name": "Raiva dos Herbívoros",
+    "description": "Indicada em áreas com presença de morcegos hematófagos (Desmodus rotundus).",
+    "dosage": "2ml, reforço anual",
+    "dateApplied": "2026-01-18T00:00:00Z",
+    "nextDoseDate": "2027-01-18T00:00:00Z"
+  },
+  {
+    "id": "7E3EAE46-3123-450A-A761-22A930932C9B",
+    "breed": "Bovinos e Bubalinos",
+    "name": "Leptospirose / Reprodução (IBR e BVD)",
+    "description": "Previne abortos e problemas reprodutivos causados por rinotraqueíte infecciosa bovina e diarreia viral bovina.",
+    "dosage": "5ml, reforço semestral",
+    "dateApplied": "2026-05-28T00:00:00Z",
+    "nextDoseDate": "2026-11-24T00:00:00Z"
+  },
+  {
+    "id": "047DE371-8D64-4D9F-8E3B-1FCC9F65B15E",
+    "breed": "Equinos",
+    "name": "Tétano",
+    "description": "Essencial devido à alta sensibilidade dos equinos ao Clostridium tetani.",
+    "dosage": "2ml, reforço anual",
+    "dateApplied": "2025-10-30T00:00:00Z",
+    "nextDoseDate": "2026-10-30T00:00:00Z"
+  },
+  {
+    "id": "C76048A4-ED83-4BC6-A481-DF4EC2B5904F",
+    "breed": "Equinos",
+    "name": "Encefalomielite Equina (Leste, Oeste e Venezuela)",
+    "description": "Previne infecções virais do sistema nervoso central transmitidas por mosquitos.",
+    "dosage": "1ml, reforço anual",
+    "dateApplied": "2025-12-19T00:00:00Z",
+    "nextDoseDate": "2026-12-19T00:00:00Z"
+  },
+  {
+    "id": "62253622-1641-4388-A177-EEC157A0CBFB",
+    "breed": "Equinos",
+    "name": "Gripe Equina (Influenza Equina)",
+    "description": "Exigida frequentemente para transporte, feiras e competições.",
+    "dosage": "1ml, reforço semestral",
+    "dateApplied": "2026-06-27T00:00:00Z",
+    "nextDoseDate": "2026-12-24T00:00:00Z"
+  },
+  {
+    "id": "CEDBF814-4808-4447-80C4-9CC5FAB02465",
+    "breed": "Equinos",
+    "name": "Rinoneumonite Equina (Herpesvírus Equino 1 e 4)",
+    "description": "Previne abortos em éguas e problemas respiratórios/neurológicos.",
+    "dosage": "2ml, reforço a cada 3 meses em éguas prenhes",
+    "dateApplied": "2026-06-17T00:00:00Z",
+    "nextDoseDate": "2026-09-15T00:00:00Z"
+  },
+  {
+    "id": "4913C23E-7ED1-452E-B8A8-2210416736AA",
+    "breed": "Equinos",
+    "name": "Raiva Equina",
+    "description": "Recomendada em regiões com focos da doença.",
+    "dosage": "1ml, reforço anual",
+    "dateApplied": "2025-10-20T00:00:00Z",
+    "nextDoseDate": "2026-10-20T00:00:00Z"
+  },
+  {
+    "id": "A73CE2BA-823E-4CB2-BDF4-B083A62416E8",
+    "breed": "Equinos",
+    "name": "Garrotilho (Adenite Equina)",
+    "description": "Previne infecção respiratória causada por Streptococcus equi.",
+    "dosage": "1ml, reforço anual",
+    "dateApplied": "2026-04-08T00:00:00Z",
+    "nextDoseDate": "2027-04-08T00:00:00Z"
+  },
+  {
+    "id": "42F05EE2-561A-46E8-B690-EB872F57CDDA",
+    "breed": "Suínos",
+    "name": "Circovirose Suína (PCV2)",
+    "description": "Previne a síndrome do definhamento multissistêmico.",
+    "dosage": "2ml, dose única em leitões",
+    "dateApplied": "2026-07-07T00:00:00Z",
+    "nextDoseDate": null
+  },
+  {
+    "id": "E169D4FD-DF5C-4EEB-AAA4-9CC91CA8F61F",
+    "breed": "Suínos",
+    "name": "Micoplasmose (Mycoplasma hyopneumoniae)",
+    "description": "Previne a pneumonia enzoótica suína.",
+    "dosage": "2ml, dose única ou 2 doses conforme protocolo",
+    "dateApplied": "2026-07-17T00:00:00Z",
+    "nextDoseDate": "2026-09-09T00:00:00Z"
+  },
+  {
+    "id": "D11142B6-14FE-4008-90C3-62C2BB8F1948",
+    "breed": "Suínos",
+    "name": "Erisipela Suína",
+    "description": "Previne lesões cutâneas e artrite causadas por Erysipelothrix rhusiopathiae.",
+    "dosage": "2ml, reforço semestral",
+    "dateApplied": "2026-05-18T00:00:00Z",
+    "nextDoseDate": "2026-11-14T00:00:00Z"
+  },
+  {
+    "id": "AE36BF9D-763B-41A4-9119-3F891ED73964",
+    "breed": "Suínos",
+    "name": "Parvovirose Suína",
+    "description": "Previne falhas reprodutivas nas fêmeas.",
+    "dosage": "2ml, antes da cobertura",
+    "dateApplied": "2026-03-19T00:00:00Z",
+    "nextDoseDate": "2026-09-15T00:00:00Z"
+  },
+  {
+    "id": "FD05D896-C137-4855-BBCF-B18AA65F2F55",
+    "breed": "Suínos",
+    "name": "Pleuropneumonia (Actinobacillus pleuropneumoniae)",
+    "description": "Previne infecções respiratórias graves.",
+    "dosage": "2ml, 2 doses com intervalo de 3 a 4 semanas",
+    "dateApplied": "2026-07-22T00:00:00Z",
+    "nextDoseDate": null
+  },
+  {
+    "id": "0BB0E286-6D77-4BF8-945E-EBED334A0D90",
+    "breed": "Aves",
+    "name": "Marek",
+    "description": "Aplicada no incubatório (no ovo ou no primeiro dia de vida).",
+    "dosage": "0.2ml, dose única no nascimento",
+    "dateApplied": "2026-02-27T00:00:00Z",
+    "nextDoseDate": null
+  },
+  {
+    "id": "5971314F-64D7-46B8-B9DA-4CD318AF098A",
+    "breed": "Aves",
+    "name": "Gumboro (Bursite Infecciosa)",
+    "description": "Previne imunossupressão.",
+    "dosage": "Via água de bebida, conforme protocolo do lote",
+    "dateApplied": "2026-03-29T00:00:00Z",
+    "nextDoseDate": "2026-09-25T00:00:00Z"
+  },
+  {
+    "id": "60586D02-A32B-4EA1-A437-FD737F58A895",
+    "breed": "Aves",
+    "name": "Bouba Aviária",
+    "description": "Previne a formação de nódulos na pele e mucosas.",
+    "dosage": "Aplicação na membrana da asa (wing web)",
+    "dateApplied": "2026-04-28T00:00:00Z",
+    "nextDoseDate": null
+  },
+  {
+    "id": "A63C5DB0-B3B9-4A67-8E20-8F5A7B478627",
+    "breed": "Aves",
+    "name": "Newcastle",
+    "description": "Previne doença respiratória e neurológica grave.",
+    "dosage": "Via spray ou água de bebida, reforço periódico",
+    "dateApplied": "2026-06-27T00:00:00Z",
+    "nextDoseDate": "2026-10-10T00:00:00Z"
+  },
+  {
+    "id": "56D6E5BC-FF3F-47CA-B0BE-F794CC02824F",
+    "breed": "Aves",
+    "name": "Bronquite Infecciosa Aviária",
+    "description": "Previne problemas respiratórios e queda na produção de ovos.",
+    "dosage": "Via spray, reforço a cada ciclo de produção",
+    "dateApplied": "2026-05-28T00:00:00Z",
+    "nextDoseDate": "2026-10-25T00:00:00Z"
+  },
+  {
+    "id": "6EE846FA-849D-4773-A36B-AFCFD0E4EDCE",
+    "breed": "Coelhos",
+    "name": "Mixomatose",
+    "description": "Previne doença viral transmitida por insetos vetores.",
+    "dosage": "0.5ml, reforço semestral",
+    "dateApplied": "2026-05-18T00:00:00Z",
+    "nextDoseDate": "2026-11-14T00:00:00Z"
+  },
+  {
+    "id": "C063B704-B60F-4E60-8232-42CCA7AB9F4B",
+    "breed": "Coelhos",
+    "name": "Doença Hemorrágica Viral (VHD1 e VHD2)",
+    "description": "Previne infecção viral aguda e fatal.",
+    "dosage": "1ml, reforço anual",
+    "dateApplied": "2026-02-07T00:00:00Z",
+    "nextDoseDate": "2027-02-07T00:00:00Z"
+  }
+]
